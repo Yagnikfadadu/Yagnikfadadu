@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=Yagnikfadadu.Yagnikfadadu" alt="Yagnik Fadadu" /> </p>
 
 ### <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, There  I'am Yagnik Fadadu
-I am  Currently pursuing B-Tech in **IT-Enginnering** from  <a target="_blank" href="https://www.gcet.ac.in/">G. H. Patel College of Enginnering and Technology</a>.<br>
+I am  Currently pursuing B-Tech in **IT-Engineering** from  <a target="_blank" href="https://www.gcet.ac.in/">G. H. Patel College of Engineering and Technology</a>.<br>
 I have pursued my Diploma in  **IT-Engineering** from <a target="_blank" href="http://www.ssgc.cteguj.in/">Dr. S & S. S. Ghandhy College</a>.
 <br/>I am working on **Android Application Development** with Java and Kotlin. Always open for collaborating in projects and innovative ideas.<br/>
 Feel free to reach me at<br/> 
