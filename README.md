@@ -2,7 +2,7 @@
 
 I'm a passionate developer and a recent graduate in Information Technology Engineering. My interests lie at the intersection of software development, artificial intelligence (Computer Vision & L.A.), and building systems that improve everyday life.
 
-This GitHub profile is a curated showcase of some of the projects I’ve built during my academic journey and beyond. I have many unreleased works that are *dying* to be uploaded—stay tuned, I’ll keep updating this space soon!
+This GitHub profile is a curated showcase of some of the projects I’ve built during my academic journey and beyond. I have many unreleased works that are *"dying"* to be uploaded - stay tuned, I’ll keep updating this space soon!
 
 ---
 
@@ -58,7 +58,8 @@ AttendeX is a comprehensive attendance management system designed for both facul
 
 ---
 
-## 🌱 Currently Learning & Working
+## 🌱 Currently Learning & Working on
+- Side Channel Analysis (SCA)
 - Advanced debugging and visualization tools  
 - System design and Git-based collaboration  
 - Backend development with Django & FastAPI
